@@ -14,7 +14,7 @@ Agriculture plays a vital role in the economy, and selecting the right crop to c
 
 ## Demo
 
-Access the live application [**here**](https://your-streamlit-app-url.streamlit.app).
+Access the live application [**here**](https://croprecommendationappgit-3mimxcnmiukx7tzk6bcejf.streamlit.app/).
 
 ![App Screenshot](https://github.com/codebreaker-pk/crop_recommendation_app/blob/main/assets/app_screenshot.png?raw=true)
 
